@@ -63,8 +63,7 @@ void setup() {
 
 void loop() {
 
-  button1.update(); // T
-  his is reqired for your code to  actually send the keypress to the computer
+  button1.update(); // This is reqired for your code to  actually send the keypress to the computer
   button2.update();
   button3.update();
   button4.update();
